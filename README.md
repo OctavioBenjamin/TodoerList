@@ -1,12 +1,12 @@
 # TodoerList
 Proyecto de Nicolás Schürmann del curso Python Sin Fronteras
 
-[!Note]
+[!NOTE]
 Este proyecto no cuenta con venv. Aunque si se usa para el desarrollo.
 
 ## Environment variables
 
-[!Note]
+[!NOTE]
 Para windows se utiliza set y para linux se utiliza export 
 
 ```shell
