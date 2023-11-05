@@ -24,5 +24,9 @@ set FLASK_DATABASE=mydb
 ```
 
 ```bash
+python -m flask --app main.py run --debug
+```
+
+```bash
 flask init-db
 ```
